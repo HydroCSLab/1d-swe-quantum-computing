@@ -141,3 +141,5 @@ The residual templates follow the direct h-u construction in your Julia prototyp
 - momentum residual uses bilinear `h*u`, cubic `h*u^2`, quadratic `h^2`, and linear slope terms
 
 Unknown states are detected directly from the input grids rather than through a hard-coded boundary-index rule.
+=======
+# 1d-swe-quantum-computing

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Quantum SWE Thesis Repository"
+version: "0.1.0"
+authors:
+  - family-names: Kandel
+    given-names: Nelson
+date-released: "2026-06-01"
+url: "https://github.com/HydroCSLab/1d-swe-quantum-computing"
+message: >
+  If you use this software or its algorithms, please cite the associated
+  Master's thesis.
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: Kandel
+      given-names: Nelson
+  title: "Toward Quantum Computing-Compatible Formulations of the One-Dimensional Shallow Water Equations"
+  institution:
+    name: "New Mexico State University"
+  year: 2026
+  month: 6
+  url: "https://www.proquest.com/pqdtlocal1006289/docview/3348424892"

@@ -1,5 +1,9 @@
 # Quantum SWE Thesis Repository
 
+If you use this software or its algorithms, please cite the associated Master's thesis.
+
+**Citation**: Kandel, N., 2026. Toward Quantum Computing-Compatible Formulations of the One-Dimensional Shallow Water Equations (Master's Thesis). New Mexico State University, Las Cruces, NM. ProQuest Dissertations & Theses, Document ID 3348424892.
+
 1. Classical implicit SWE solve using Newton iterations (`run_swe.py`)
 2. HHL-based quantum linear solve for Jacobian systems (`hhl_solver.py`)
 3. Newton-linearized QUBO solve for small linear systems (`newton_qubo_solver.py`)

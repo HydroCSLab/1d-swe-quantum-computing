@@ -1,6 +1,6 @@
 # Quantum SWE Thesis Repository
 
-This repository accompanies a completed M.S. thesis and is provided for reference and reproducibility.
+This repository accompanies a completed M.S. thesis in the [HydroCS](https://hydro.isnew.info/) lab at New Mexico State University and is provided as a scholarly record for reference, reproducibility, and citation.
 If you use this software or its algorithms, please cite the associated Master's thesis.
 
 **Citation**: Kandel, N., 2026. Toward Quantum Computing-Compatible Formulations of the One-Dimensional Shallow Water Equations (Master's Thesis). New Mexico State University, Las Cruces, NM. ProQuest Dissertations & Theses, Document ID 3348424892.
